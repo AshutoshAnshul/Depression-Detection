@@ -15,9 +15,12 @@
 <br>
 
 <p align="center">
-<img src="overview_frameworks.png" alt="drawing" width="70%" height="70%"/>
+<img src="imgSysArch.pdf" alt="drawing" width="70%" height="70%"/>
     <h4 align="center">System architecture of the proposed model</h4>
 </p>
+
+
+</div>
 
 <h2>If you find this data useful for your research, please kindly star our repo and cite our paper.</h2>
 
@@ -27,7 +30,22 @@ The recent coronavirus disease (COVID-19) has become a pandemic and has affected
 
 ## Covid-19 Dataset
 
+Due to the recent data-sharing policy, we cannot share the entire dataset, including the user and tweet data. However, we are sharing the user-level features and average of tweet-level features (Topic-Based Feature, Visual Feature, Emotional Feature, Depression-Specific Feature) into the CSV with appropriate feature names as columns, without exposing the user ID or tweet ID. Kindly use the data for possible research.
+
+## Citation
+If you find this work useful for your research, please kindly cite our paper:
+```
+@ARTICLE{10241281,
+  author={Anshul, Ashutosh and Pranav, Gumpili Sai and Rehman, Mohammad Zia Ur and Kumar, Nagendra},
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={A Multimodal Framework for Depression Detection During COVID-19 via Harvesting Social Media}, 
+  year={2024},
+  volume={11},
+  number={2},
+  pages={2872-2888},
+  keywords={Depression;Feature extraction;Social networking (online);COVID-19;Blogs;Visualization;Surveys;Coronavirus disease (COVID-19);deep learning;depression;machine learning;multimodal analysis;social media},
+  doi={10.1109/TCSS.2023.3309229}}
 
 
-</div>
+```
   
