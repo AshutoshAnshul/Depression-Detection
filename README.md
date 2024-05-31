@@ -3,10 +3,7 @@
 ## A Multimodal Framework for Depression Detection During COVID-19 via Harvesting Social Media
 
 <div>
-    Ashutosh Anshul
-    Gumpili Sai Pranav
-    Mohammad Zia Ur Rahman
-    Nagendra Kumar
+    Ashutosh Anshul, Gumpili Sai Pranav, Mohammad Zia Ur Rehman, Nagendra Kumar
 </div>
 <div>
     Indian Institute of Technology Indore
@@ -30,7 +27,7 @@ The recent coronavirus disease (COVID-19) has become a pandemic and has affected
 
 ## Covid-19 Dataset
 
-Due to the recent data-sharing policy, we cannot share the entire dataset, including the user and tweet data. However, we are sharing the user-level features and average of tweet-level features (Topic-Based Feature, Visual Feature, Emotional Feature, Depression-Specific Feature) into the CSV with appropriate feature names as columns, without exposing the user ID or tweet ID. Kindly use the data for possible research.
+Due to the recent data-sharing policy, we cannot share the entire dataset, including the user and tweet data. However, we are sharing the user-level features and average of tweet-level features (Topic-Based Feature, Visual Feature, Emotional Feature, Depression-Specific Feature) into the CSV with appropriate feature names as columns, without exposing the user ID or tweet ID. Hopefully, the data serves enough for any possible research. If you have any doubts about data collection and features, please contact Ashutosh Anshul (ashutoshanshul01@gmail.com).
 
 ## Citation
 If you find this work useful for your research, please kindly cite our paper:
