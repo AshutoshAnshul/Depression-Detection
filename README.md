@@ -15,14 +15,14 @@
 <br>
 
 <p align="center">
-<embed src="imgSysArch.pdf" width="70%" height="70%" type="application/pdf"/>
+<embed src="imgSysArch.png" width="70%" height="70%" type="application/pdf"/>
     <h4 align="center">System architecture of the proposed model</h4>
 </p>
 
 
 </div>
 
-<h2>If you find this data useful for your research, please kindly star our repo and cite our paper.</h2>
+<h3>If you find this data useful for your research, please kindly star our repo and cite our paper.</h3>
 
 ## Abstract
 
