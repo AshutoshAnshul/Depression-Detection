@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-<img src="imgSysArch.pdf" alt="drawing" width="70%" height="70%"/>
+<embed src="imgSysArch.pdf" width="70%" height="70%" type="application/pdf"/>
     <h4 align="center">System architecture of the proposed model</h4>
 </p>
 
